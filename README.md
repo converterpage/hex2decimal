@@ -7,5 +7,6 @@ Features:
 - Converts hex hexadecimal numbers to decimal numbers
 - The converter can be easily integrated in any website
 
-A live version of the tool can be found here https://hex2decimal.converter.page/ 
+A live version of the tool can be found at: https://hex2decimal.converter.page/ 
+
 
